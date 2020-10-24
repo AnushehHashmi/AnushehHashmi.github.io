@@ -1,0 +1,62 @@
+<html>
+  <head>
+       <meta charset="UTF-8">
+    <title>
+      Website
+      </title>
+      <meta charset="UTF-8">
+    <link rel="stylesheet" href="Anusheh_style.css"/>
+    <script>
+    
+    </script>
+    <link href= "https://fonts.googleapis.com/css2?family=Barlow:wght@200&family=Dancing+Script&display=swap" rel="stylesheet">
+    
+  </head>
+  
+  <body>
+    <h1 id= "title">My Website</h1>
+    
+    <div id= "FunFact" class = "container"> 
+  <h1 style ="color:blue">Did You Know</h1>
+  
+      <ul>
+       <li>Stairs dont work</li>
+       <li>hello</li>
+      </ul>
+      <img style = "width:20%; height: auto" src = "https://static.scientificamerican.com/sciam/cache/file/0DEA7648-D899-4F88-9C96A992633D3D40_source.jpg?w=590&h=800&93BFA542-F5AE-433D-BE13868228DCB22D">
+      </div>
+
+<div id = "TopArtists" class = "container">
+<h2>
+  My top 5 artists
+</h2>
+    <ol>
+      <li>selena gomez</li>
+      <li>Conan Grey</li>
+      <li>Megan the Stallion</li>
+      <li>Cardi B</li>
+      <li>Ariana Grande</li>
+   </ol>
+   </div>
+   
+   <div id= "Fire" class = "container" style>
+   <a href="https://www.youtube.com/">
+      <img style= "width: 19%; height: 34%;" alt= "Orange Fire with a Black Backround" src= "https://media.istockphoto.com/photos/texture-of-fire-on-a-black-background-picture-id851824664?k=6&m=851824664&s=612x612&w=0&h=V-mivhy57-Pl1X7bPrayBOMc9ipqks1iiSTYthFidqQ="/> </a>
+   </div>
+   
+   <div id= "AboutMe"> 
+     <h1>About Me</h1>
+     <p>
+       My name is Anusheh. I am 14. I was born in August.
+     </p>
+   </div>
+   
+   <form id="Name" class = "container">
+     <label for="Information"> What is Your First and Last Name? </label>
+     <input type= "text" id="Information" name="Information">
+       <input type="Submit" value="Submit Here">
+  
+   </form>
+   
+  </body>
+</html>

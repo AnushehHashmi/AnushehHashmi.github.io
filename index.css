@@ -19,6 +19,7 @@
   background-color: red;
   animation-name: changeColor;
   animation-duration: 8s;
+  animation-iteration-count: infinite;
 }
 
 vh2 {
